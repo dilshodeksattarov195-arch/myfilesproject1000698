@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachesync",
+        "uuid": 4808522,
+        "checksum": "7lxj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
